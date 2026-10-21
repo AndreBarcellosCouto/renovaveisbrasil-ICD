@@ -1,0 +1,5 @@
+/Users/andre_barcelloscouto/Desktop/projeto_energia/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+08:20:55 INFO projeto_energia_parquet_2025.zip: 189.8 MB
+08:20:55 INFO projeto_energia_parquet_2025_clima_h.zip: 305.6 MB
+08:20:55 INFO pasta pronta: data/export/drive_projeto_energia_2025 (816 MB)

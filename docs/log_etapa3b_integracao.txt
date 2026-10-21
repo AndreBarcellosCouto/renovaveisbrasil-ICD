@@ -1,0 +1,49 @@
+/Users/andre_barcelloscouto/Desktop/projeto_energia/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+23:17:06 INFO == dim_usina
+23:17:10 INFO dim_usina: 304 correspondencias aproximadas gravadas em docs/revisao_match_usinas.csv
+23:17:13 INFO gravado data/processed/dim_usina.parquet (846 linhas)
+23:17:13 INFO dim_usina: 846 usinas; 25.1% da potencia sem coordenada
+23:17:13 INFO == capacidade
+23:17:13 INFO gravado data/processed/capacidade_mensal.parquet (981 linhas)
+23:17:13 INFO == clima_agregado
+23:17:13 INFO gravado data/processed/uf_subsistema.parquet (28 linhas)
+23:17:13 INFO gravado data/processed/dim_celula.parquet (6480 linhas)
+23:17:14 INFO gravado data/processed/clima_agregado_h/clima_agregado_h_2025-01.parquet (41664 linhas)
+23:17:15 INFO gravado data/processed/clima_agregado_h/clima_agregado_h_2025-02.parquet (37632 linhas)
+23:17:16 INFO gravado data/processed/clima_agregado_h/clima_agregado_h_2025-03.parquet (41664 linhas)
+23:17:17 INFO gravado data/processed/clima_agregado_h/clima_agregado_h_2025-04.parquet (40320 linhas)
+23:17:18 INFO gravado data/processed/clima_agregado_h/clima_agregado_h_2025-05.parquet (41664 linhas)
+23:17:19 INFO gravado data/processed/clima_agregado_h/clima_agregado_h_2025-06.parquet (40320 linhas)
+23:17:19 INFO gravado data/processed/clima_agregado_h/clima_agregado_h_2025-07.parquet (41664 linhas)
+23:17:20 INFO gravado data/processed/clima_agregado_h/clima_agregado_h_2025-08.parquet (41664 linhas)
+23:17:21 INFO gravado data/processed/clima_agregado_h/clima_agregado_h_2025-09.parquet (40320 linhas)
+23:17:22 INFO gravado data/processed/clima_agregado_h/clima_agregado_h_2025-10.parquet (41664 linhas)
+23:17:23 INFO gravado data/processed/clima_agregado_h/clima_agregado_h_2025-11.parquet (40320 linhas)
+23:17:24 INFO gravado data/processed/clima_agregado_h/clima_agregado_h_2025-12.parquet (41664 linhas)
+23:17:24 INFO == painel_subsistema
+23:17:35 INFO gravado data/analytic/painel_subsistema_h/painel_subsistema_h_2025-01.parquet (2976 linhas)
+23:17:35 INFO gravado data/analytic/painel_subsistema_h/painel_subsistema_h_2025-02.parquet (2688 linhas)
+23:17:35 INFO gravado data/analytic/painel_subsistema_h/painel_subsistema_h_2025-03.parquet (2976 linhas)
+23:17:35 INFO gravado data/analytic/painel_subsistema_h/painel_subsistema_h_2025-04.parquet (2880 linhas)
+23:17:35 INFO gravado data/analytic/painel_subsistema_h/painel_subsistema_h_2025-05.parquet (2976 linhas)
+23:17:35 INFO gravado data/analytic/painel_subsistema_h/painel_subsistema_h_2025-06.parquet (2880 linhas)
+23:17:35 INFO gravado data/analytic/painel_subsistema_h/painel_subsistema_h_2025-07.parquet (2976 linhas)
+23:17:35 INFO gravado data/analytic/painel_subsistema_h/painel_subsistema_h_2025-08.parquet (2976 linhas)
+23:17:36 INFO gravado data/analytic/painel_subsistema_h/painel_subsistema_h_2025-09.parquet (2880 linhas)
+23:17:36 INFO gravado data/analytic/painel_subsistema_h/painel_subsistema_h_2025-10.parquet (2976 linhas)
+23:17:36 INFO gravado data/analytic/painel_subsistema_h/painel_subsistema_h_2025-11.parquet (2880 linhas)
+23:17:36 INFO gravado data/analytic/painel_subsistema_h/painel_subsistema_h_2025-12.parquet (2976 linhas)
+23:17:36 INFO == painel_uf
+23:17:42 INFO gravado data/analytic/painel_uf_h/painel_uf_h_2025-01.parquet (20832 linhas)
+23:17:42 INFO gravado data/analytic/painel_uf_h/painel_uf_h_2025-02.parquet (18816 linhas)
+23:17:42 INFO gravado data/analytic/painel_uf_h/painel_uf_h_2025-03.parquet (20832 linhas)
+23:17:42 INFO gravado data/analytic/painel_uf_h/painel_uf_h_2025-04.parquet (20160 linhas)
+23:17:42 INFO gravado data/analytic/painel_uf_h/painel_uf_h_2025-05.parquet (20832 linhas)
+23:17:42 INFO gravado data/analytic/painel_uf_h/painel_uf_h_2025-06.parquet (20160 linhas)
+23:17:42 INFO gravado data/analytic/painel_uf_h/painel_uf_h_2025-07.parquet (20832 linhas)
+23:17:42 INFO gravado data/analytic/painel_uf_h/painel_uf_h_2025-08.parquet (20832 linhas)
+23:17:43 INFO gravado data/analytic/painel_uf_h/painel_uf_h_2025-09.parquet (20160 linhas)
+23:17:43 INFO gravado data/analytic/painel_uf_h/painel_uf_h_2025-10.parquet (20832 linhas)
+23:17:43 INFO gravado data/analytic/painel_uf_h/painel_uf_h_2025-11.parquet (20160 linhas)
+23:17:43 INFO gravado data/analytic/painel_uf_h/painel_uf_h_2025-12.parquet (20832 linhas)

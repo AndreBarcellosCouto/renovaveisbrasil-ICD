@@ -1,0 +1,9 @@
+09:09:54 INFO 1. Matriz de cobertura
+09:09:54 INFO 2. Fechamento energético por subsistema
+09:09:54 INFO 3. Soma por usina vs balanço do ONS
+09:09:54 INFO 4. Sanidade (solar noturno, negativos, duplicatas, horas)
+09:09:58 INFO 5. Alinhamento temporal geração × clima
+09:09:58 INFO 6. Curtailment: referência ≥ verificada
+09:09:59 INFO 7. Correspondência ONS ↔ ANEEL
+09:09:59 INFO 8. Intensidade de emissões vs MCTI
+09:09:59 INFO relatorio em docs/relatorio_qualidade_piloto.md

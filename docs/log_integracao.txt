@@ -1,0 +1,20 @@
+09:09:34 INFO == dim_tempo
+09:09:34 INFO gravado data/processed/dim_tempo.parquet (35808 linhas)
+09:09:34 INFO == dim_usina
+09:09:36 INFO dim_usina: 299 correspondencias aproximadas gravadas em docs/revisao_match_usinas.csv
+09:09:42 INFO gravado data/processed/dim_usina.parquet (834 linhas)
+09:09:42 INFO dim_usina: 834 usinas; 25.2% da potencia sem coordenada
+09:09:42 INFO == capacidade
+09:09:43 INFO gravado data/processed/capacidade_mensal.parquet (150 linhas)
+09:09:43 INFO == preco
+09:09:43 INFO gravado data/processed/preco_h/preco_h_2021-08.parquet (2784 linhas)
+09:09:43 INFO gravado data/processed/preco_h/preco_h_2025-08.parquet (2976 linhas)
+09:09:43 INFO == clima_agregado
+09:09:43 WARNING dim_celula ausente; clima_agregado pulado
+09:09:43 INFO == painel_subsistema
+09:09:44 INFO gravado data/analytic/painel_subsistema_h/painel_subsistema_h_2021-08.parquet (2976 linhas)
+09:09:44 INFO gravado data/analytic/painel_subsistema_h/painel_subsistema_h_2025-08.parquet (2976 linhas)
+09:09:44 INFO == painel_uf
+09:09:45 INFO gravado data/processed/uf_subsistema.parquet (28 linhas)
+09:09:45 INFO gravado data/analytic/painel_uf_h/painel_uf_h_2021-08.parquet (20832 linhas)
+09:09:45 INFO gravado data/analytic/painel_uf_h/painel_uf_h_2025-08.parquet (20832 linhas)

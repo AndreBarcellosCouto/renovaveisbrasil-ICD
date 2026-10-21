@@ -1,0 +1,13 @@
+/Users/andre_barcelloscouto/Desktop/projeto_energia/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+22:56:19 INFO 1. Matriz de cobertura
+22:56:19 INFO 2. Fechamento energético por subsistema
+22:56:19 INFO 3. Soma por usina vs balanço do ONS
+22:56:19 INFO 4. Sanidade (solar noturno, negativos, duplicatas, horas)
+23:01:16 INFO 5. Alinhamento temporal geração × clima
+/Users/andre_barcelloscouto/Desktop/projeto_energia/.venv/lib/python3.9/site-packages/numpy/lib/_nanfunctions_impl.py:2035: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  var = nanvar(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+23:01:16 INFO 6. Curtailment: referência ≥ verificada
+23:01:21 INFO 7. Correspondência ONS ↔ ANEEL
+23:01:21 INFO 8. Intensidade de emissões vs MCTI
+23:01:21 INFO relatorio em docs/relatorio_qualidade_2025.md

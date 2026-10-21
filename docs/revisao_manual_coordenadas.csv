@@ -1,0 +1,40 @@
+id_ons,nome,uf,uf_geo,classificacao,municipio,uf_municipio,motivo,revisado_em
+PYIT50,ITAIPU 50 HZ,PY,PR,divisa,,,usina de divisa (rio de fronteira ou município listado pela ANEEL em mais de uma UF); coordenada mantida,2026-10-09
+SPILS,ILHA SOLTEIRA,SP,MS,divisa,,,usina de divisa (rio de fronteira ou município listado pela ANEEL em mais de uma UF); coordenada mantida,2026-10-09
+PAUHTP,TELES PIRES,PA,MT,divisa,,,usina de divisa (rio de fronteira ou município listado pela ANEEL em mais de uma UF); coordenada mantida,2026-10-09
+MGSSUS,SÃO SIMÃO,MG,GO,divisa,,,usina de divisa (rio de fronteira ou município listado pela ANEEL em mais de uma UF); coordenada mantida,2026-10-09
+SPJUP,JUPIÁ,SP,MS,divisa,,,usina de divisa (rio de fronteira ou município listado pela ANEEL em mais de uma UF); coordenada mantida,2026-10-09
+SPPPR,PORTO PRIMAVERA,SP,MS,divisa,,,usina de divisa (rio de fronteira ou município listado pela ANEEL em mais de uma UF); coordenada mantida,2026-10-09
+SPAGV,ÁGUA VERMELHA,SP,MG,divisa,,,usina de divisa (rio de fronteira ou município listado pela ANEEL em mais de uma UF); coordenada mantida,2026-10-09
+MAUHET,ESTREITO,MA,TO,divisa,,,usina de divisa (rio de fronteira ou município listado pela ANEEL em mais de uma UF); coordenada mantida,2026-10-09
+SPUSLB,LUIZ CARLOS BARRETO,SP,MG,divisa,,,usina de divisa (rio de fronteira ou município listado pela ANEEL em mais de uma UF); coordenada mantida,2026-10-09
+RSUHFC,FOZ DO CHAPECÓ,RS,SC,divisa,,,usina de divisa (rio de fronteira ou município listado pela ANEEL em mais de uma UF); coordenada mantida,2026-10-09
+PAUSMA,SÃO MANOEL,PA,MT,divisa,,,usina de divisa (rio de fronteira ou município listado pela ANEEL em mais de uma UF); coordenada mantida,2026-10-09
+SCUHBG,BARRA GRANDE,SC,RS,divisa,,,usina de divisa (rio de fronteira ou município listado pela ANEEL em mais de uma UF); coordenada mantida,2026-10-09
+GOUCD,CACHOEIRA DOURADA,GO,MG,divisa,,,usina de divisa (rio de fronteira ou município listado pela ANEEL em mais de uma UF); coordenada mantida,2026-10-09
+CJU_PIOIT,OITIS 21,BA,PI,divisa,,,complexo na divisa BA/PI (ANEEL: Casa Nova-BA; coletora em Dom Inocêncio-PI); coordenada mantida,2026-10-09
+CJU_MS4FRBE,FOTÓNS DE SÃO GEORGE 01,MS,CE,corrigir_centroide_municipio,Campo Grande,MS,coordenada do SIGA cai em Tianguá/CE; ANEEL declara Campo Grande - MS,2026-10-09
+MGUHJA,JAGUARA US,MG,SP,divisa,,,usina de divisa (rio de fronteira ou município listado pela ANEEL em mais de uma UF); coordenada mantida,2026-10-09
+SPCHV,CHAVANTES,SP,PR,divisa,,,usina de divisa (rio de fronteira ou município listado pela ANEEL em mais de uma UF); coordenada mantida,2026-10-09
+BAUAS,APOLÔNIO SALES,BA,AL,divisa,,,usina de divisa (rio de fronteira ou município listado pela ANEEL em mais de uma UF); coordenada mantida,2026-10-09
+APSAJ,SANTO ANTÔNIO DO JARI,AP,PA,divisa,,,usina de divisa (rio de fronteira ou município listado pela ANEEL em mais de uma UF); coordenada mantida,2026-10-09
+MGVGRA,VOLTA GRANDE,MG,SP,divisa,,,usina de divisa (rio de fronteira ou município listado pela ANEEL em mais de uma UF); coordenada mantida,2026-10-09
+SPROS,ROSANA,SP,PR,divisa,,,usina de divisa (rio de fronteira ou município listado pela ANEEL em mais de uma UF); coordenada mantida,2026-10-09
+MAUTM5,MARANHÃO V,MA,ES,corrigir_centroide_municipio,Santo Antônio dos Lopes,MA,coordenada do SIGA é da localização antiga (MC2 João Neiva/ES); ANEEL declara Santo Antônio dos Lopes - MA,2026-10-09
+MAUTM4,MARANHÃO IV,MA,SC,corrigir_centroide_municipio,Santo Antônio dos Lopes,MA,coordenada do SIGA é da localização antiga (MC2 Joinville/SC); ANEEL declara Santo Antônio dos Lopes - MA,2026-10-09
+RJUHAT,SIMPLÍCIO,RJ,MG,divisa,,,usina de divisa (rio de fronteira ou município listado pela ANEEL em mais de uma UF); coordenada mantida,2026-10-09
+MGIGAR,IGARAPAVA,MG,SP,divisa,,,usina de divisa (rio de fronteira ou município listado pela ANEEL em mais de uma UF); coordenada mantida,2026-10-09
+RJPSD1,PORSUD I,RJ,MG,corrigir_centroide_municipio,Itaguaí,RJ,coordenada do SIGA cai em Carandaí/MG; ANEEL declara Itaguaí - RJ,2026-10-09
+SPSAG,SALTO GRANDE (SP),SP,PR,divisa,,,usina de divisa (rio de fronteira ou município listado pela ANEEL em mais de uma UF); coordenada mantida,2026-10-09
+SPCNO2,CANOAS II,SP,PR,divisa,,,usina de divisa (rio de fronteira ou município listado pela ANEEL em mais de uma UF); coordenada mantida,2026-10-09
+RNRAF3,VENTOS DE SÃO RAFAEL 03,RN,PB,divisa,,,complexo na divisa RN/PB (ANEEL inclui Picuí-PB); coordenada mantida,2026-10-09
+RNRAF2,VENTOS DE SÃO RAFAEL 02,RN,PB,divisa,,,complexo na divisa RN/PB (ANEEL inclui Picuí-PB); coordenada mantida,2026-10-09
+RNRAF1,VENTOS DE SÃO RAFAEL 01,RN,PB,divisa,,,complexo na divisa RN/PB (ANEEL inclui Picuí-PB); coordenada mantida,2026-10-09
+MGSCLA,SANTA CLARA (MG),MG,BA,divisa,,,usina de divisa (rio de fronteira ou município listado pela ANEEL em mais de uma UF); coordenada mantida,2026-10-09
+MGUHBH,BATALHA,MG,GO,divisa,,,usina de divisa (rio de fronteira ou município listado pela ANEEL em mais de uma UF); coordenada mantida,2026-10-09
+APUHSJ,Santo Antônio do Jari,AP,PA,divisa,,,"mesma usina de APSAJ (id da geração horária); divisa AP/PA (ANEEL: Almeirim-PA, Laranjal do Jari-AP); coordenada mantida",2026-10-09
+RJUHSI,Simplício,RJ,MG,divisa,,,mesma usina de RJUHAT (id da geração horária); divisa RJ/MG no rio Paraíba do Sul; coordenada mantida,2026-10-09
+PEUPF1,PAU FERRO I,PE,,remover_coordenada,,,casamento aproximado errado: térmica casada com o parque eólico Pau Ferro II (SIGA),2026-10-09
+ROUTRD,RONDON II,RO,,remover_coordenada,,,casamento aproximado errado: térmica (biomassa) casada com a UHE Rondon II (SIGA),2026-10-09
+RSUTIN,CGVE INNOVA,RS,,match_aproximado_aceito,,,"mesmo nome no SIGA (CGVE INNOVA, Triunfo-RS)",2026-10-09
+ROTN1,Termonorte I,RO,,match_aproximado_aceito,,,casado com Termo Norte II: mesmo complexo em Porto Velho-RO,2026-10-09

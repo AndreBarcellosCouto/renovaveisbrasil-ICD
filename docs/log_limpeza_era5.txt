@@ -1,0 +1,28 @@
+09:51:13 INFO dim_celula: 6480 células, 2842 terrestres
+09:51:13 INFO gravado data/processed/dim_celula.parquet (6480 linhas)
+/Users/andre_barcelloscouto/Desktop/projeto_energia/scripts/02_limpeza_era5.py:97: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  out[c] = out[c].astype("float32")
+/Users/andre_barcelloscouto/Desktop/projeto_energia/scripts/02_limpeza_era5.py:97: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  out[c] = out[c].astype("float32")
+/Users/andre_barcelloscouto/Desktop/projeto_energia/scripts/02_limpeza_era5.py:97: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  out[c] = out[c].astype("float32")
+/Users/andre_barcelloscouto/Desktop/projeto_energia/scripts/02_limpeza_era5.py:97: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  out[c] = out[c].astype("float32")
+09:51:19 INFO gravado data/processed/clima_h/clima_h_2025-08.parquet (2114448 linhas)
+09:51:19 INFO gravado data/processed/clima_perfil_mes_hora.parquet (76734 linhas)

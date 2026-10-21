@@ -1,0 +1,30 @@
+id_ons,nome,grupo,uf,uf_geo,municipio,lat,lon,fonte_coord,potencia_mw,revisao_coordenada
+PYIT50,ITAIPU 50 HZ,hidro,PY,PR,Foz do Iguaçu,-25.40831282,-54.58741668,siga_ceg,14000.0,divisa_conferida
+SPILS,ILHA SOLTEIRA,hidro,SP,MS,Selvíria,-20.38333333,-51.36653361,siga_ceg,3444.0,divisa_conferida
+PAUHTP,TELES PIRES,hidro,PA,MT,Paranaíta,-9.35150944,-56.77799361,siga_ceg,1819.8,divisa_conferida
+MGSSUS,SÃO SIMÃO,hidro,MG,GO,São Simão,-19.01833333,-50.49861111,siga_ceg,1710.0,divisa_conferida
+SPJUP,JUPIÁ,hidro,SP,MS,Três Lagoas,-20.775833,-51.626667,siga_ceg,1551.2,divisa_conferida
+SPPPR,PORTO PRIMAVERA,hidro,SP,MS,Batayporã,-22.47567361,-52.958685,siga_ceg,1540.0,divisa_conferida
+SPAGV,ÁGUA VERMELHA,hidro,SP,MG,Iturama,-19.86315702,-50.34647804,siga_ceg,1396.1999999999998,divisa_conferida
+MAUHET,ESTREITO,hidro,MA,TO,Palmeiras do Tocantins,-6.58909741,-47.46648003,siga_ceg,1087.0,divisa_conferida
+SPUSLB,LUIZ CARLOS BARRETO,hidro,SP,MG,Sacramento,-20.1508584,-47.27979292,siga_ceg,1050.0,divisa_conferida
+RSUHFC,FOZ DO CHAPECÓ,hidro,RS,SC,Águas de Chapecó,-27.14,-53.04333333,siga_ceg,855.2,divisa_conferida
+PAUSMA,SÃO MANOEL,hidro,PA,MT,Paranaíta,-9.19027541,-57.05222718,siga_ceg,700.0,divisa_conferida
+SCUHBG,BARRA GRANDE,hidro,SC,RS,Pinhal da Serra,-27.78026185,-51.19189954,siga_ceg,690.0,divisa_conferida
+GOUCD,CACHOEIRA DOURADA,hidro,GO,MG,Cachoeira Dourada,-18.50432743,-49.49021968,siga_ceg,658.0,divisa_conferida
+CJU_PIOIT,OITIS 21,eolica,BA,PI,Dom Inocêncio,-9.04034,-41.734691,ons_fator_capacidade_coletora,550.0,divisa_conferida
+MGUHJA,JAGUARA US,hidro,MG,SP,Rifaina,-20.02273195,-47.43389241,siga_ceg,424.0,divisa_conferida
+SPCHV,CHAVANTES,hidro,SP,PR,Ribeirão Claro,-23.12795665,-49.73295944,siga_ceg,414.0,divisa_conferida
+BAUAS,APOLÔNIO SALES,hidro,BA,AL,Delmiro Gouveia,-9.35811016,-38.20849092,siga_ceg,400.0,divisa_conferida
+APSAJ,SANTO ANTÔNIO DO JARI,hidro,AP,PA,Almeirim,-0.65,-52.51666667,siga_ceg,392.95,divisa_conferida
+MGVGRA,VOLTA GRANDE,hidro,MG,SP,Miguelópolis,-20.03326721,-48.22184427,siga_ceg,380.0,divisa_conferida
+SPROS,ROSANA,hidro,SP,PR,Diamante do Norte,-22.6,-52.869444,siga_ceg,354.0,divisa_conferida
+RJUHAT,SIMPLÍCIO,hidro,RJ,MG,Além Paraíba,-21.92074371,-42.79314838,siga_ceg,333.70000000000005,divisa_conferida
+MGIGAR,IGARAPAVA,hidro,MG,SP,Igarapava,-19.98907385,-47.7559932,siga_ceg,210.0,divisa_conferida
+SPSAG,SALTO GRANDE (SP),hidro,SP,PR,Cambará,-22.90389936,-49.99798631,siga_ceg,73.8,divisa_conferida
+SPCNO2,CANOAS II,hidro,SP,PR,Andirá,-22.93833333,-50.25083333,siga_ceg,72.0,divisa_conferida
+RNRAF3,VENTOS DE SÃO RAFAEL 03,eolica,RN,PB,Picuí,-6.28394731,-36.31018581,siga_ceg,63.0,divisa_conferida
+RNRAF2,VENTOS DE SÃO RAFAEL 02,eolica,RN,PB,Picuí,-6.29484883,-36.32671096,siga_ceg,63.0,divisa_conferida
+RNRAF1,VENTOS DE SÃO RAFAEL 01,eolica,RN,PB,Picuí,-6.34082641,-36.32314202,siga_ceg,63.0,divisa_conferida
+MGSCLA,SANTA CLARA (MG),hidro,MG,BA,Mucuri,-17.89615334,-40.20182371,siga_ceg,60.0,divisa_conferida
+MGUHBH,BATALHA,hidro,MG,GO,Cristalina,-17.34555556,-47.48944444,siga_ceg,52.5,divisa_conferida

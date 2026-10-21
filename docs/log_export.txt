@@ -1,0 +1,21 @@
+10:42:02 INFO balanco_subsistema_h.csv: 43800 linhas, 4.7 MB
+10:42:02 INFO curva_carga_h.csv: 35040 linhas, 2.2 MB
+10:42:02 INFO intercambio_h.csv: 35040 linhas, 2.2 MB
+10:42:02 INFO cmo_h.csv: 34944 linhas, 2.2 MB
+10:42:02 INFO hidro_d.csv: 1460 linhas, 0.1 MB
+10:42:02 INFO cvu_semanal.csv: 4844 linhas, 0.3 MB
+10:42:05 INFO carga_h.csv: 210240 linhas, 31.0 MB
+10:42:05 INFO pld_h.csv: 35040 linhas, 2.2 MB
+10:42:05 INFO preco_h.csv: 35040 linhas, 2.5 MB
+10:42:09 INFO clima_agregado_h.csv: 490560 linhas, 49.1 MB
+10:42:10 INFO painel_subsistema_h.csv: 35040 linhas, 17.6 MB
+10:42:15 INFO painel_uf_h.csv: 245280 linhas, 59.1 MB
+10:42:15 INFO dim_usina.csv: 846 linhas, 0.2 MB
+10:42:15 INFO dim_celula.csv: 6480 linhas, 0.3 MB
+10:42:21 INFO clima_perfil_mes_hora.csv: 818496 linhas, 99.8 MB
+10:42:21 INFO siga_usinas.csv: 25133 linhas, 3.8 MB
+10:42:21 INFO uf_subsistema.csv: 28 linhas, 0.0 MB
+10:42:21 INFO dim_tempo.csv: 8760 linhas, 0.6 MB
+10:42:21 INFO capacidade_mensal.csv: 907 linhas, 0.0 MB
+10:42:21 INFO mmgd_mensal.csv: 74076 linhas, 4.6 MB
+10:42:34 INFO zip: data/export/projeto_energia_csv_2025.zip (89.6 MB)

@@ -1,0 +1,95 @@
+/Users/andre_barcelloscouto/Desktop/projeto_energia/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+22:24:39 INFO == geracao_usina
+22:24:41 INFO ja existe: DicionarioDados_GeracaoPorUsina.json
+22:24:41 INFO ja existe: DicionarioDados_GeracaoPorUsina.pdf
+22:24:41 INFO ja existe: GERACAO_USINA-2_2021.parquet
+22:24:41 INFO ja existe: GERACAO_USINA-2_2025_08.parquet
+22:24:41 INFO == fator_capacidade
+22:24:42 INFO ja existe: DicionarioDados_FatorCapacidade.json
+22:24:42 INFO ja existe: DicionarioDados_FatorCapacidade.pdf
+22:24:42 INFO ja existe: FATOR_CAPACIDADE-2_2025_08.parquet
+22:24:42 INFO ja existe: FATOR_CAPACIDADE_2021.parquet
+22:24:42 INFO == termica_motivo
+22:24:43 INFO ja existe: DicionarioDados_Geracao_Termica_Por_Motivo_Despacho.json
+22:24:43 INFO ja existe: DicionarioDados_Geracao_Termica_Por_Motivo_Despacho.pdf
+22:24:43 INFO ja existe: GERACAO_TERMICA_DESPACHO-2_2025_08.parquet
+22:24:43 INFO ja existe: GERACAO_TERMICA_DESPACHO_2021.parquet
+22:24:43 INFO == coff_eolica
+22:24:44 INFO ja existe: DicionarioDados_RestricaoContrainedoff_UsiEolicas.json
+22:24:44 INFO ja existe: DicionarioDados_RestricaoContrainedoff_UsiEolicas.pdf
+22:24:44 INFO ja existe: RESTRICAO_COFF_EOLICA_2025_08.parquet
+22:24:44 INFO == coff_fv
+22:24:45 INFO ja existe: DicionarioDados_RestricaoContrainedoff_UsiFotovoltaica.json
+22:24:45 INFO ja existe: DicionarioDados_RestricaoContrainedoff_UsiFotovoltaica.pdf
+22:24:45 INFO ja existe: RESTRICAO_COFF_FOTOVOLTAICA_2025_08.parquet
+22:24:45 INFO == balanco
+22:24:47 INFO ja existe: DicionarioDados_Balanco_Energia_Subsistema.json
+22:24:47 INFO ja existe: DicionarioDados_Balanco_Energia_Subsistema.pdf
+22:24:47 INFO ja existe: BALANCO_ENERGIA_SUBSISTEMA_2021.parquet
+22:24:47 INFO ja existe: BALANCO_ENERGIA_SUBSISTEMA_2025.parquet
+22:24:47 INFO == curva_carga
+22:24:48 INFO ja existe: DicionarioDados_CurvaCarga.json
+22:24:48 INFO ja existe: DicionarioDados_CurvaCarga.pdf
+22:24:48 INFO ja existe: CURVA_CARGA_2021.parquet
+22:24:48 INFO ja existe: CURVA_CARGA_2025.parquet
+22:24:48 INFO == intercambio
+22:24:49 INFO ja existe: DicionarioDados_Intercambio_Nacional.json
+22:24:49 INFO ja existe: DicionarioDados_Intercambio_Nacional.pdf
+22:24:49 INFO ja existe: INTERCAMBIO_NACIONAL_2021.csv
+22:24:49 INFO ja existe: INTERCAMBIO_NACIONAL_2025.parquet
+22:24:49 INFO == ear
+22:24:50 INFO ja existe: DicionarioDados_EarPorSubsistema.json
+22:24:50 INFO ja existe: DicionarioDados_EarPorSubsistema.pdf
+22:24:50 INFO ja existe: EAR_DIARIO_SUBSISTEMA_2021.parquet
+22:24:50 INFO ja existe: EAR_DIARIO_SUBSISTEMA_2025.parquet
+22:24:50 INFO == ena
+22:24:51 INFO ja existe: DicionarioDados_EnaPorSubsistema.json
+22:24:51 INFO ja existe: DicionarioDados_EnaPorSubsistema.pdf
+22:24:51 INFO ja existe: ENA_DIARIO_SUBSISTEMA_2021.parquet
+22:24:51 INFO ja existe: ENA_DIARIO_SUBSISTEMA_2025.parquet
+22:24:51 INFO == cmo
+22:24:52 INFO ja existe: DicionarioDados_Cmo_Semi_Horario.json
+22:24:52 INFO ja existe: DicionarioDados_Cmo_Semi_Horario.pdf
+22:24:52 INFO ja existe: CMO_SEMIHORARIO_2021.parquet
+22:24:52 INFO ja existe: CMO_SEMIHORARIO_2025.parquet
+22:24:52 INFO == cvu
+22:24:53 INFO ja existe: DicionarioDados_CVU_UsinaTermica.json
+22:24:53 INFO ja existe: DicionarioDados_CVU_UsinaTermica.pdf
+22:24:53 INFO ja existe: CVU_USINA_TERMICA_2021.parquet
+22:24:53 INFO ja existe: CVU_USINA_TERMICA_2025.parquet
+22:24:53 INFO == cadastros
+22:24:54 INFO ja existe: CAPACIDADE_GERACAO.csv
+22:24:54 INFO ja existe: CAPACIDADE_GERACAO.parquet
+22:24:54 INFO ja existe: DicionarioDados_Capacidade_Instalada_Geracao.json
+22:24:54 INFO ja existe: DicionarioDados_Capacidade_Instalada_Geracao.pdf
+22:24:55 INFO ja existe: DicionarioDados_Modalidade_Operacao_Usina.json
+22:24:55 INFO ja existe: DicionarioDados_Modalidade_Operacao_Usina.pdf
+22:24:55 INFO ja existe: MODALIDADE_USINA.csv
+22:24:55 INFO ja existe: MODALIDADE_USINA.parquet
+22:24:55 INFO ja existe: DicionarioDados_Usina_Conjunto.json
+22:24:55 INFO ja existe: DicionarioDados_Usina_Conjunto.pdf
+22:24:55 INFO ja existe: RELACIONAMENTO_USINA_CONJUNTO.csv
+22:24:55 INFO ja existe: RELACIONAMENTO_USINA_CONJUNTO.parquet
+22:24:56 INFO ja existe: DicionarioDados_Usina_PequenaUsina.json
+22:24:56 INFO ja existe: DicionarioDados_Usina_PequenaUsina.pdf
+22:24:56 INFO ja existe: RELACIONAMENTO_USINA_PEQUENAUSINA.csv
+22:24:56 INFO ja existe: RELACIONAMENTO_USINA_PEQUENAUSINA.parquet
+22:24:56 INFO == carga_api
+/Users/andre_barcelloscouto/Desktop/projeto_energia/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+22:24:57 WARNING tentativa 1/4 falhou para https://dadosabertos.ccee.org.br/api/3/action/package_show?id=pld_horario: 403 Client Error: Forbidden for url: https://dadosabertos.ccee.org.br/api/3/action/package_show?id=pld_horario
+22:24:59 WARNING tentativa 2/4 falhou para https://dadosabertos.ccee.org.br/api/3/action/package_show?id=pld_horario: 403 Client Error: Forbidden for url: https://dadosabertos.ccee.org.br/api/3/action/package_show?id=pld_horario
+22:25:01 WARNING tentativa 3/4 falhou para https://dadosabertos.ccee.org.br/api/3/action/package_show?id=pld_horario: 403 Client Error: Forbidden for url: https://dadosabertos.ccee.org.br/api/3/action/package_show?id=pld_horario
+22:25:05 WARNING tentativa 4/4 falhou para https://dadosabertos.ccee.org.br/api/3/action/package_show?id=pld_horario: 403 Client Error: Forbidden for url: https://dadosabertos.ccee.org.br/api/3/action/package_show?id=pld_horario
+22:25:13 WARNING CCEE bloqueia clientes nao-navegador (403 Akamai). Baixe no navegador em https://dadosabertos.ccee.org.br/dataset/pld_horario os recursos ['pld_horario_2021'], salve em /Users/andre_barcelloscouto/Desktop/projeto_energia/data/raw/ccee/pld_horario e rode: python scripts/01_registrar_manual.py <arquivo> --fonte ccee/pld_horario --url <link do recurso>
+22:25:13 INFO ja existe: siga-empreendimentos-geracao.csv
+22:25:13 INFO ja existe: dm-siga.pdf
+22:25:13 INFO ja existe: empreendimento-geracao-distribuida.parquet
+22:25:13 INFO ja existe: dm-geracao-distribuida.pdf
+22:25:13 INFO ja existe: BR_UF_2024.zip
+22:25:13 INFO ja existe: BR_Municipios_2024.zip
+22:25:13 WARNING MCTI: coloque manualmente o XLSX dos fatores medios mensais do SIN em /Users/andre_barcelloscouto/Desktop/projeto_energia/data/raw/mcti (pagina exige CAPTCHA) e rode scripts/01_registrar_manual.py
+/Users/andre_barcelloscouto/Desktop/projeto_energia/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+22:25:13 INFO 2025-08: ja existe

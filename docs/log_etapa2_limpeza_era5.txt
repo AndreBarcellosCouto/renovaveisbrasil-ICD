@@ -1,0 +1,12 @@
+10:24:02 INFO gravado data/processed/clima_h/clima_h_2025-01.parquet (2114448 linhas)
+10:24:12 INFO gravado data/processed/clima_h/clima_h_2025-02.parquet (1909824 linhas)
+10:24:22 INFO gravado data/processed/clima_h/clima_h_2025-03.parquet (2114448 linhas)
+10:24:32 INFO gravado data/processed/clima_h/clima_h_2025-04.parquet (2046240 linhas)
+10:24:42 INFO gravado data/processed/clima_h/clima_h_2025-05.parquet (2114448 linhas)
+10:24:52 INFO gravado data/processed/clima_h/clima_h_2025-06.parquet (2046240 linhas)
+10:25:03 INFO gravado data/processed/clima_h/clima_h_2025-07.parquet (2114448 linhas)
+10:25:03 INFO clima_h 2025-08 ja existe
+10:25:13 INFO gravado data/processed/clima_h/clima_h_2025-09.parquet (2046240 linhas)
+10:25:23 INFO gravado data/processed/clima_h/clima_h_2025-10.parquet (2114448 linhas)
+10:25:23 WARNING ERA5 2025-11 ausente
+10:25:23 WARNING ERA5 2025-12 ausente

@@ -1,0 +1,7 @@
+/Users/andre_barcelloscouto/Desktop/projeto_energia/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+08:12:34 INFO == dim_usina
+08:12:38 INFO dim_usina: 5 correspondencias aproximadas gravadas em docs/revisao_match_usinas.csv
+08:12:41 INFO revisao manual de coordenadas: 4 correcoes aplicadas
+08:12:41 INFO gravado data/processed/dim_usina.parquet (846 linhas)
+08:12:41 INFO dim_usina: 846 usinas; 0.0% da potencia sem coordenada

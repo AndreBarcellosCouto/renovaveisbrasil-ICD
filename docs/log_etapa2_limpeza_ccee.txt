@@ -1,0 +1,18 @@
+10:23:19 INFO pld_horario_2025: colunas=['MES_REFERENCIA', 'SUBMERCADO', 'PERIODO_COMERCIALIZACAO', 'DIA', 'HORA', 'PLD_HORA']
+10:23:20 INFO gravado data/processed/pld_h/pld_h_2025-01.parquet (2976 linhas)
+10:23:20 INFO gravado data/processed/pld_h/pld_h_2025-02.parquet (2688 linhas)
+10:23:20 INFO gravado data/processed/pld_h/pld_h_2025-03.parquet (2976 linhas)
+10:23:20 INFO gravado data/processed/pld_h/pld_h_2025-04.parquet (2880 linhas)
+10:23:20 INFO gravado data/processed/pld_h/pld_h_2025-05.parquet (2976 linhas)
+10:23:20 INFO gravado data/processed/pld_h/pld_h_2025-06.parquet (2880 linhas)
+10:23:20 INFO gravado data/processed/pld_h/pld_h_2025-07.parquet (2976 linhas)
+10:23:20 INFO gravado data/processed/pld_h/pld_h_2025-08.parquet (2976 linhas)
+10:23:20 INFO gravado data/processed/pld_h/pld_h_2025-09.parquet (2880 linhas)
+10:23:20 INFO gravado data/processed/pld_h/pld_h_2025-10.parquet (2976 linhas)
+10:23:20 INFO gravado data/processed/pld_h/pld_h_2025-11.parquet (2880 linhas)
+10:23:20 INFO gravado data/processed/pld_h/pld_h_2025-12.parquet (2976 linhas)
+10:23:20 INFO SIGA: 25133 linhas; colunas=['DatGeracaoConjuntoDados', 'NomEmpreendimento', 'IdeNucleoCEG', 'CodCEG', 'SigUFPrincipal', 'SigTipoGeracao', 'DscFaseUsina', 'DscOrigemCombustivel', 'DscFonteCombustivel', 'DscTipoOutorga', 'NomFonteCombustivel', 'DatEntradaOperacao', 'MdaPotenciaOutorgadaKw', 'MdaPotenciaFiscalizadaKw', 'MdaGarantiaFisicaKw', 'IdcGeracaoQualificada', 'NumCoordNEmpreendimento', 'NumCoordEEmpreendimento', 'DatInicioVigencia', 'DatFimVigencia', 'DscPropriRegimePariticipacao', 'DscSubBacia', 'DscMuninicpios']
+10:23:20 INFO gravado data/processed/siga_usinas.parquet (25133 linhas)
+10:23:24 INFO MMGD: 4688832 linhas; colunas=['DatGeracaoConjuntoDados', 'AnmPeriodoReferencia', 'NumCNPJDistribuidora', 'SigAgente', 'NomAgente', 'CodClasseConsumo', 'DscClasseConsumo', 'CodSubGrupoTarifario', 'DscSubGrupoTarifario', 'CodUFibge', 'SigUF', 'CodRegiao', 'NomRegiao', 'CodMunicipioIbge', 'NomMunicipio', 'CodCEP', 'SigTipoConsumidor', 'NumCPFCNPJ', 'CodEmpreendimento', 'DthAtualizaCadastralEmpreend', 'SigModalidadeEmpreendimento', 'DscModalidadeHabilitado', 'QtdUCRecebeCredito', 'SigTipoGeracao', 'DscFonteGeracao', 'DscPorte', 'MdaPotenciaInstaladaKW', 'NomSubEstacao', 'NumCoordESub', 'NumCoordNSub', 'NomTitularEmpreendimento']
+10:23:28 INFO MMGD: 0.0% unidades sem data de conexao (excluidas do acumulado, contadas em flag)
+10:23:36 INFO gravado data/processed/mmgd_mensal.parquet (74076 linhas)
